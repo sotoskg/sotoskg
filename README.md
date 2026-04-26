@@ -4,14 +4,12 @@
 
 I am a **Systems Specialist** with over 8 years of experience in managing large-scale national infrastructures (OPAP/Allwyn). My focus lies at the intersection of **System Operations** and **Technical Automation**.
 
-> "I don't just manage systems; I build tools to make them run better."
-
 ---
 
 ### 🛠️ What I do
 
 * **Operations at Scale:** Managing the software deployment roadmap for thousands of VLT terminals nationwide.
-* **Process Automation:** Transforming manual, fragmented workflows into automated ETL pipelines (Power Query/M) that increased departmental efficiency by 40%.
+* **Process Automation:** Transforming manual, fragmented workflows into automated ETL pipelines (Power Query/M) that increased departmental efficiency.
 * **Bridging the Gap:** Working closely with Developers and Project Managers to lead QA initiatives and ensure software integrity within the SDLC.
 * **Strategic Coordination:** Acting as the technical liaison between international vendors and internal business units.
 
